@@ -2,8 +2,9 @@ package services
 
 import (
 	"errors"
-	"product-api/models"
-	"product-api/storage"
+
+	"github.com/EENmalikhanDev/be-golang/models"
+	"github.com/EENmalikhanDev/be-golang/storage"
 )
 
 func GetAllProducts() []models.Product {
