@@ -3,8 +3,9 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
-	"product-api/models"
-	"product-api/services"
+
+	"github.com/EENmalikhanDev/be-golang/models"
+	"github.com/EENmalikhanDev/be-golang/services"
 
 	"github.com/gorilla/mux"
 )
