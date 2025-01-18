@@ -1,0 +1,3 @@
+- go mod tidy
+- go run main.go
+- Start server on :8080
