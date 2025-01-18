@@ -1,6 +1,5 @@
 package config
 
-// Go port of Ruby's dotenv library
 import (
 	"fmt"
 	"os"
