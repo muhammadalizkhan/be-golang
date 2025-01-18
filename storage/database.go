@@ -1,5 +1,5 @@
 package storage
 
-import "product-api/models"
+import "github.com/EENmalikhanDev/be-golang/models"
 
 var Products = map[string]models.Product{}
