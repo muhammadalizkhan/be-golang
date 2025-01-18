@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"product-api/handlers"
+	"github.com/EENmalikhanDev/be-golang/handlers"
 
 	"github.com/gorilla/mux"
 )
