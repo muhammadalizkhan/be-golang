@@ -3,7 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"product-api/routes"
+
+	"github.com/EENmalikhanDev/be-golang/routes"
 )
 
 func main() {
